@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "myTrailers",
+    "slug": "myTrailers",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "myTrailers"
+}
